@@ -17,13 +17,12 @@
 
 [<img align="left" alt="MsCharBanks | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="MsCharBanks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="CharBanks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharBanks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MsCharBanks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [twitter]: https://twitter.com/mscharbanks
 [youtube]: https://www.youtube.com/c/mscharbanks
-[instagram]: https://www.instagram.com/mscharbabe/
-[linkedin]: https://linkedin.com/in/charbanks
+[linkedin]: https://linkedin.com/in/mscharbanks
 
 <!--
 **mscharbanks/mscharbanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
